@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre] 👋
 
-<!--
-**EduverVertel/EduverVertel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador [Full Stack / Backend / etc.] en [Ciudad, País]. 
+Me dedico a construir [qué tipo de cosas: APIs, apps web, automatizaciones].
 
-Here are some ideas to get you started:
+## Tecnologías
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- **[Nombre del proyecto](link)**: una línea de qué hace y con qué está hecho.
+- **[Otro proyecto](link)**: una línea.
+
+## Contacto
+[LinkedIn](link) · [Portafolio](link) · tu@email.com
